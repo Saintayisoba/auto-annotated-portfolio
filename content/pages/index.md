@@ -36,7 +36,7 @@ sections:
         justifyContent: center
         flexDirection: col-reverse
         borderRadius: small
-        borderColor: border-complementary
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
