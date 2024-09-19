@@ -50,7 +50,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/t.jpg
-      altText: altText of the image
+      altText: vv
       caption: Caption of the image
       elementId: ''
   - type: ContactSection
